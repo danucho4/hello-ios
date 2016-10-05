@@ -52,7 +52,7 @@
 		90049C8E1DA46B4000518F45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		90CC2A7F1DA481BD00000B82 /* IMG_1683.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_1683.PNG; path = Screenshots/IMG_1683.PNG; sourceTree = "<group>"; };
 		90CC2A801DA481BD00000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png"; path = "Screenshots/Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png"; sourceTree = "<group>"; };
-		90CC2A851DA485F700000B82 /* IMG_5714.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_5714.JPG; sourceTree = "<group>"; };
+		90CC2A851DA485F700000B82 /* IMG_5714.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_5714.JPG; path = Screenshots/IMG_5714.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,8 +135,8 @@
 		90CC2A7E1DA4819E00000B82 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				90CC2A7F1DA481BD00000B82 /* IMG_1683.PNG */,
 				90CC2A851DA485F700000B82 /* IMG_5714.JPG */,
+				90CC2A7F1DA481BD00000B82 /* IMG_1683.PNG */,
 				90CC2A801DA481BD00000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png */,
 			);
 			name = Screenshots;
