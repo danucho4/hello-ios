@@ -14,6 +14,8 @@
 		90049C771DA46B3F00518F45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90049C751DA46B3F00518F45 /* LaunchScreen.storyboard */; };
 		90049C821DA46B4000518F45 /* Hello_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90049C811DA46B4000518F45 /* Hello_iOSTests.swift */; };
 		90049C8D1DA46B4000518F45 /* Hello_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90049C8C1DA46B4000518F45 /* Hello_iOSUITests.swift */; };
+		90CC2A7A1DA47B7800000B82 /* IMG_1683.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 90CC2A781DA47B7800000B82 /* IMG_1683.PNG */; settings = {ASSET_TAGS = (); }; };
+		90CC2A7B1DA47B7800000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 90CC2A791DA47B7800000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		90049C881DA46B4000518F45 /* Hello.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hello.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		90049C8C1DA46B4000518F45 /* Hello_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_iOSUITests.swift; sourceTree = "<group>"; };
 		90049C8E1DA46B4000518F45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90CC2A781DA47B7800000B82 /* IMG_1683.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1683.PNG; sourceTree = "<group>"; };
+		90CC2A791DA47B7800000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,7 @@
 		90049C601DA46B3F00518F45 = {
 			isa = PBXGroup;
 			children = (
+				90CC2A771DA47B1300000B82 /* Screenshots */,
 				90049C6B1DA46B3F00518F45 /* Hello-iOS */,
 				90049C801DA46B4000518F45 /* Hello-iOSTests */,
 				90049C8B1DA46B4000518F45 /* Hello-iOSUITests */,
@@ -123,6 +128,15 @@
 				90049C8E1DA46B4000518F45 /* Info.plist */,
 			);
 			path = "Hello-iOSUITests";
+			sourceTree = "<group>";
+		};
+		90CC2A771DA47B1300000B82 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				90CC2A781DA47B7800000B82 /* IMG_1683.PNG */,
+				90CC2A791DA47B7800000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png */,
+			);
+			name = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,8 +244,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				90049C771DA46B3F00518F45 /* LaunchScreen.storyboard in Resources */,
+				90CC2A7A1DA47B7800000B82 /* IMG_1683.PNG in Resources */,
 				90049C741DA46B3F00518F45 /* Assets.xcassets in Resources */,
 				90049C721DA46B3F00518F45 /* Main.storyboard in Resources */,
+				90CC2A7B1DA47B7800000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
