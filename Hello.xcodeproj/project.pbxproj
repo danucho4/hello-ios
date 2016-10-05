@@ -16,6 +16,7 @@
 		90049C8D1DA46B4000518F45 /* Hello_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90049C8C1DA46B4000518F45 /* Hello_iOSUITests.swift */; };
 		90CC2A811DA481BD00000B82 /* IMG_1683.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 90CC2A7F1DA481BD00000B82 /* IMG_1683.PNG */; settings = {ASSET_TAGS = (); }; };
 		90CC2A821DA481BD00000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 90CC2A801DA481BD00000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png */; settings = {ASSET_TAGS = (); }; };
+		90CC2A861DA485F700000B82 /* IMG_5714.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 90CC2A851DA485F700000B82 /* IMG_5714.JPG */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		90049C8E1DA46B4000518F45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		90CC2A7F1DA481BD00000B82 /* IMG_1683.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_1683.PNG; path = Screenshots/IMG_1683.PNG; sourceTree = "<group>"; };
 		90CC2A801DA481BD00000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png"; path = "Screenshots/Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png"; sourceTree = "<group>"; };
+		90CC2A851DA485F700000B82 /* IMG_5714.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_5714.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				90CC2A7F1DA481BD00000B82 /* IMG_1683.PNG */,
+				90CC2A851DA485F700000B82 /* IMG_5714.JPG */,
 				90CC2A801DA481BD00000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png */,
 			);
 			name = Screenshots;
@@ -245,6 +248,7 @@
 			files = (
 				90CC2A821DA481BD00000B82 /* Simulator Screen Shot Oct 4, 2016, 4.04.31 PM.png in Resources */,
 				90049C771DA46B3F00518F45 /* LaunchScreen.storyboard in Resources */,
+				90CC2A861DA485F700000B82 /* IMG_5714.JPG in Resources */,
 				90049C741DA46B3F00518F45 /* Assets.xcassets in Resources */,
 				90049C721DA46B3F00518F45 /* Main.storyboard in Resources */,
 				90CC2A811DA481BD00000B82 /* IMG_1683.PNG in Resources */,
